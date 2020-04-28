@@ -13,5 +13,5 @@ user_input.to_i
 end
 
 
-puts input_to_index(invalid)
+puts input_to_index("invalid")
 # code your input_to_index and move method here!
