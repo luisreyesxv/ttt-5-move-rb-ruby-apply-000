@@ -13,5 +13,5 @@ def input_to_index(user_input)
 end
 
 
-input_to_index(5)
+puts input_to_index(5)
 # code your input_to_index and move method here!
