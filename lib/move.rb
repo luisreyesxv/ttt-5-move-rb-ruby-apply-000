@@ -11,6 +11,4 @@ def input_to_index(user_input=0)
 user_input.to_i - 1
 end
 
-
-puts input_to_index("invalid")
 # code your input_to_index and move method here!
