@@ -11,4 +11,13 @@ def input_to_index(user_input=0)
 user_input.to_i - 1
 end
 
+
+board=Array.new(9," ")
+
+def move
+ def update_array_at_with(array,index,value)
+  array[index]=value
+ end
+ 
+end
 # code your input_to_index and move method here!
